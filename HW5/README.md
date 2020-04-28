@@ -8,7 +8,7 @@
 
 3. In this project we implemented a strategy dessign pattern. This can be seen by the fact that we have a router function that is responsible for routing the different input queries from the user to the proper API function call. This method was particularly useful for this project since it involved a variety of different, but similar, API calls. In future projects, I can see this design pattern working and making my code base cleaner, more concise, and easier to understand.
 
-##Implementation
+## Implementation
 
 1. The most helpful part about implementing this slack bot project was the usage of ngrok to test and develop the code. Ngrok is a network tunnelling tool that allows you to expose a port on your machine to the web. The tool generates a URL for you to publically expose your server's endpoints. We used this tool so that our service could integrate with our Slack workspace and let the bot respond to messages in our #financialslackbot channel.
 
